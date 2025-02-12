@@ -5,3 +5,4 @@
 ./Utils/__pycache__
 ./Utils/*/__pycache__
 ./data/img
+*.csv
